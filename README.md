@@ -1,5 +1,4 @@
-# Fyyur
-Venue Booking Site for Artists
+# Fyyur: Venue Booking Site for Artists
 
 This project is a part of Udacity Full-Stack Nano Degree Program. Fyyur is a musical venue and artist booking site that facilitates the discovery and bookings of shows between local performing artists and available venues. This site lets you list new artists and venues, discover them, and list shows with artists as a venue owner.
 
@@ -7,10 +6,10 @@ I built the data models to power the API endpoints for the Fyyur site by connect
 
 ### Overview
 
-This site started out with the front end and and user can generate real data with the help of POST API calls. It uses models and model interactions to be able to store retrieve, and update data from a database. Now it is a fully functioning site that is capable of doing the following, using a PostgreSQL database:
+This site started out with the front end and and user can generate real data with the help of POST API calls. It uses models and model interactions to be able to store retrieve, and update data from a database. Now it is a fully functioning site that is capable of doing the following, using a PostgreSQL database.
 
->> creating new venues, artists, and shows.
->> searching for venues and artists.
+>> creating new venues, artists, and shows.<br />
+>> searching for venues and artists.<br />
 >> learning more about a specific artist or venue or show.
 
 ### Tech Stack
