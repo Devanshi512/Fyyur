@@ -18,7 +18,7 @@ This site started out with the front end and and user can generate real data wit
 >> **PostgreSQL** as database of choice<br />
 >> **Python3** and **Flask** as server language and server framework<br />
 >> **Flask-Migrate** for creating and running schema migrations<br />
->> **HTML**, **CSS**, and **Javascript** with [Bootstrap 3](https://getbootstrap.com/docs/3.4/customize/) to set beautiful look for website
+>> **HTML**, **CSS**, and **Javascript** with [Bootstrap 3](https://getbootstrap.com/docs/3.4/customize/) to render beautiful look for website
 
 ### Main Files: Project Structure
 
