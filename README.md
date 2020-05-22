@@ -6,7 +6,7 @@ I built the data models to power the API endpoints for the Fyyur site by connect
 
 ### Overview
 
-This site started out with the front end and and user can generate real data with the help of POST API calls. It uses models and model interactions to be able to store retrieve, and update data from a database. Now it is a fully functioning site that is capable of doing the following, using a PostgreSQL database.
+This site started out with the front end and and user can generate real data with the help of POST API calls. It is a fully functioning site which is capable of using models and model interactions to store, retrieve, and update the data from PostgreSQL database.
 
 >> creating new venues, artists, and shows.<br />
 >> searching for venues and artists.<br />
@@ -14,10 +14,10 @@ This site started out with the front end and and user can generate real data wit
 
 ### Tech Stack
 
->> **SQLAlchemy ORM** to be our ORM library of choice
->> **PostgreSQL** as database of choice
->> **Python3** and **Flask** as server language and server framework
->> **Flask-Migrate** for creating and running schema migrations
+>> **SQLAlchemy ORM** to be our ORM library of choice<br />
+>> **PostgreSQL** as database of choice<br />
+>> **Python3** and **Flask** as server language and server framework<br />
+>> **Flask-Migrate** for creating and running schema migrations<br />
 >> **HTML**, **CSS**, and **Javascript** with [Bootstrap 3](https://getbootstrap.com/docs/3.4/customize/) to set beautiful look for website
 
 ### Main Files: Project Structure
