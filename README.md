@@ -6,7 +6,7 @@ I built the data models to power the API endpoints for the Fyyur site by connect
 
 ### Overview
 
-This site started out with the front end and and user can generate real data with the help of POST API calls. It is a fully functioning site which is capable of using models and model interactions to store, retrieve, and update the data from PostgreSQL database.
+This site is capable of using models and model interactions to store, retrieve, and update the data from PostgreSQL database.
 
 >> creating new venues, artists, and shows.<br />
 >> searching for venues and artists.<br />
@@ -19,6 +19,20 @@ This site started out with the front end and and user can generate real data wit
 >> **Python3** and **Flask** as server language and server framework<br />
 >> **Flask-Migrate** for creating and running schema migrations<br />
 >> **HTML**, **CSS**, and **Javascript** with [Bootstrap 3](https://getbootstrap.com/docs/3.4/customize/) to render beautiful look for website
+
+### Screenshots:::
+
+>> A. Home Page with capabilities of creating, editing, displaying the venue, artist and show details
+![Alt text](Image/fyyur_home_page.png?raw=true "Home Page")
+
+>> B. Find Venue
+![Alt text](Image/fyyur_find_venue.png?raw=true "Find Venue")
+
+>> B. Fine an Artist
+![Alt text](Image/fyyur_find_artist.png?raw=true "Find Artist")
+
+>> B. See available shows
+![Alt text](Image/fyyur_available_shows.png?raw=true "Available Shows")
 
 ### Main Files: Project Structure
 
