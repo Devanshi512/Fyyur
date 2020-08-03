@@ -28,10 +28,10 @@ This site is capable of using models and model interactions to store, retrieve, 
 >> B. Find Venue
 ![Alt text](Image/fyyur_find_venue.png?raw=true "Find Venue")
 
->> B. Fine an Artist
+>> C. Find an Artist
 ![Alt text](Image/fyyur_find_artist.png?raw=true "Find Artist")
 
->> B. See available shows
+>> D. See available shows
 ![Alt text](Image/fyyur_available_shows.png?raw=true "Available Shows")
 
 ### Main Files: Project Structure
